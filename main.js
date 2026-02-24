@@ -17,7 +17,7 @@ return /******/ (() => { // webpackBootstrap
   \**********************************/
 (module, __unused_webpack_exports, __webpack_require__) {
 
-module.exports=(__webpack_require__(/*! alt1/base */ "../node_modules/alt1/dist/base/index.js").ImageDetect).imageDataFromBase64("iVBORw0KGgoAAAANSUhEUgAAABkAAAAMCAIAAAAYkIEcAAAAAW5vUEUAYtdMlAAAAARub1BFAAAAAEEgjiIAAAAJbm9QRQAAAAAAAAAAAKGKctUAAAGKSURBVDhPrVBLSgNBEK3unp5PNE4QBLOQqET8YESyVHTlIVyIF/EGghtdeQq3ggfQlaB4A5eCkRiSzGR62lfTY8zGrPKmqHn1+lX1RzTrSzQjyPI/C0ybFce107Pzu/uHg6PjUpqKabNWGo3qQmxy+9Ht9ZO0VP+HVEoF0kM4UspE4G+vL7c311+dDkpfljbncRktbC0ALj0rAuIFEORxQyYsck1HGrsIaXiRkeQZG4g93PvrB+c7JpQ53yTcaEDgw7aWuL8Y4XRXOu7As5yEXFEBYuyYtGri62BXJ+JG4PwsxcR5HUKUYFBrFGHBN9KXXDpHpAOELM41IoPsgP2M4bJvEpgRvdEQflVfiKs6GuRp6PmkuC1UvlYeYrO1e3F1ubPX2m+3N9abz49Pc16Y5cZaCxu6+CVzJmiBLk7WtnMaJZbSPKsqDyQjUxXhwI7Q0EuT985nNxmEnq5Fla3FZYjOHwn9bYdecXcApThcbcYiTMngVJBAMCUQFBKLUFDCBzJpGLf8eYT+AUgTh+npkDmiAAAAAElFTkSuQmCC")
+module.exports=(__webpack_require__(/*! alt1/base */ "../node_modules/alt1/dist/base/index.js").ImageDetect).imageDataFromBase64("iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAIAAADZF8uwAAAAAW5vUEUAYtdMlAAAAARub1BFAAAAAEEgjiIAAAAJbm9QRQAAAAAAAAAAAKGKctUAAADQSURBVChTlY3BCoJAFEVn9BuiZNQckcpKwiRaiBQVBG2CNu3a+AV9UW1aRdBfuOlz1LZdeTKBmwgu431nzjyZZ7R+5h9pJAyck659u17KosCoUknU+mZnPui9suz5uBd5rnGuDJy1hAS2eU7TYOiTNBUWQldMNZRQWEkU4XckEawkakjseMg+ThrSzHYY3VEwHxdrSDrX0EHoPZs7ciN95Z2WW5LQwZGV9KpN+OzkmBA2vYsSEghBCIyGgxsSwqZK0mqJIIuF20jUtnTOv0S4H0jKV+YSag0aAAAAAElFTkSuQmCC")
 
 /***/ },
 
@@ -27,7 +27,7 @@ module.exports=(__webpack_require__(/*! alt1/base */ "../node_modules/alt1/dist/
   \**********************************/
 (module, __unused_webpack_exports, __webpack_require__) {
 
-module.exports=(__webpack_require__(/*! alt1/base */ "../node_modules/alt1/dist/base/index.js").ImageDetect).imageDataFromBase64("iVBORw0KGgoAAAANSUhEUgAAABIAAAAOCAIAAACtuNvgAAAAAW5vUEUAYtdMlAAAAARub1BFAAAAAEEgjiIAAAAJbm9QRQAAAAAAAAAAAKGKctUAAAGOSURBVDhPnVC9LwNhGH/e9+56V1eKVoSJpGGplcFmEEQlTQiD8DcwIjH62EgqFlM3i1TCKMRfQNDUIJEmgklLWte76/md55Ymlnry5rnf1/O8b04kerqo+ZLBt8n659gfj1xYXJpMzbRFo+VSaXl+NlAb64/bSqWPdGp6ZHg4X3icSM8FamNJXaoBJGJ8cXYupejtjJbf3+Kxzkq1xjp3RVHQ/dvA+TjC8wGpEUPv6oiNp1LnuZxbr1t1h3V01RPoDY+ExADGytr6cTZ7ly/EwxHQQMck+Vi2KDoOEzbQN3d2H25vDw4O46YJgUU8zyIHHVSGXBmSKjgITljTVzc2Xp+Le5lMSFPiZuR3G2G167oAFddCWIz2JdjgGhxKHp2eXF9eCUGGqu1vbT/d56u2xS6WOuTatiPG+hOWRyCtwqh6NryvmnXzUmwPt3B0oKO7TTfqZCMWFtqn962SIqb6kzVyMaBjPRnAiIIiARAi/3dzICp8Fwq6/yeBIGHGEBrnMANgSh2YA1DY9fcS/QCJQ4CPV6RebQAAAABJRU5ErkJggg==")
+module.exports=(__webpack_require__(/*! alt1/base */ "../node_modules/alt1/dist/base/index.js").ImageDetect).imageDataFromBase64("iVBORw0KGgoAAAANSUhEUgAAAAkAAAALCAIAAAAiOzBMAAAAAW5vUEUAYtdMlAAAAARub1BFAAAAAEEgjiIAAAAJbm9QRQAAAAAAAAAAAKGKctUAAADoSURBVChTY1CRFMWFGLSlJYFUalTEpQvnP3/6dOn8OT9He6AgEDGoy0gAqf7mlkBvD24O9srKykMHD6qIw/QBkZG0rDg/n6KocICz0+tXr3jY2UH6IBJABFFUl19w/NAhFiYmoAgDEFsrqAARkGGuofbowf3ogABudnaQHETCVE7BVln92L79C6dMY2dh0ZaQRsgB0cZFS/du2SrExS3DL+iiqAlEDF6KOkBqRkvn+RMnlUUlxLn5gCIQQYYgJUMg69/fv9++fv344ePXT5+/fPoMkWawllaCIAYGBmZGRmYmJgiyllYCALdfT94G9ADGAAAAAElFTkSuQmCC")
 
 /***/ },
 
@@ -37,7 +37,7 @@ module.exports=(__webpack_require__(/*! alt1/base */ "../node_modules/alt1/dist/
   \**********************************/
 (module, __unused_webpack_exports, __webpack_require__) {
 
-module.exports=(__webpack_require__(/*! alt1/base */ "../node_modules/alt1/dist/base/index.js").ImageDetect).imageDataFromBase64("iVBORw0KGgoAAAANSUhEUgAAABAAAAANCAIAAAAv2XlzAAAAAW5vUEUAYtdMlAAAAARub1BFAAAAAEEgjiIAAAAJbm9QRQAAAAAAAAAAAKGKctUAAAFuSURBVChTrU+7SgNBFJ3H7k7WJOsmmkB8YEK2tEtpZ6cYQUhhIf6DYm2h32FhKQiCj6QRC1+NGBMQVAKSh1jKGqLrJjs73t0NItgoeLjMvedwztwZbKQS6C8g/f5r/F9gcWl5e2cXaiY/35d8SP3+A81GfSE/l0iNHBRLD7Xa4/1doBNGJChKKZyBBID58ux0QJbt15dOu91+s1wuAidh/hJJ4MAXlINFNp1dXVmDJx0fHVYqFf8eZLsOjWvhgHwHQV5euKLeauULhauLc8Xmki/TcS3GkQt7GJVl2CgwUC9k86dG86Za1nR9ImvcXpc58WzERo6OVPiDwolCJKBeGEnJ4WSEqXEWzuVyH52Oab17tyCEp9KG1bNVmQX8C1v7e6Zp6rp+Uiytb25EGBvVYuDE0xnDFqjrOlEqweAgHsUhS/QgU31uKVTqcmcoHBkbjKlYBhHPZia7iCuIAoEBrAyjEArBDArQwNc3IP4J2euHJY/fGR8AAAAASUVORK5CYII=")
+module.exports=(__webpack_require__(/*! alt1/base */ "../node_modules/alt1/dist/base/index.js").ImageDetect).imageDataFromBase64("iVBORw0KGgoAAAANSUhEUgAAAAkAAAALCAIAAAAiOzBMAAAAAW5vUEUAYtdMlAAAAARub1BFAAAAAEEgjiIAAAAJbm9QRQAAAAAAAAAAAKGKctUAAAD8SURBVChTY1CRFMWFGLSlJdWkxSd0tD968ODTx48Xzp4JcnUGCgIRg7qMBJDqb24x1NZiZ2Wprq4+dfKkspgIVB8QGUnLivPzqUmIhbi7vnz+nJuNDaQPIgFEQIaVtubOjZtmT5rMwswEFGEAYmsFFSC6cfnK////D+7dKyMqJsLLA5KDSJjKKQBJCRHRyZMnb9+61UJOCSEHRC6KmkAy1t371cuXolw8QC6Dl6JOgL5ZfnCUrbK6p7r++vmLj+7ex87MApILUjIMN7K5ePIU0HMf3707vmufhYaOGBcvUA+DtbQSEJlLyvOxc7AwMbEyMQtzcJtKyFlLKwEANklR9GnQzKYAAAAASUVORK5CYII=")
 
 /***/ },
 
@@ -47,7 +47,7 @@ module.exports=(__webpack_require__(/*! alt1/base */ "../node_modules/alt1/dist/
   \**********************************/
 (module, __unused_webpack_exports, __webpack_require__) {
 
-module.exports=(__webpack_require__(/*! alt1/base */ "../node_modules/alt1/dist/base/index.js").ImageDetect).imageDataFromBase64("iVBORw0KGgoAAAANSUhEUgAAABUAAAALCAIAAAAfqVEqAAAAAW5vUEUAYtdMlAAAAARub1BFAAAAAEEgjiIAAAAJbm9QRQAAAAAAAAAAAKGKctUAAAGLSURBVChTpVHLLgRREK26t2/3tPGYIRIT78wksyBEYi8sJvgFdhILYiG+wFJsJMIaOxn/ICHE4x8ECUsZhDHTfbud63aEiFioVKpPnTpVtyrNhVw7/cNE8v3ddvcP4Enyw/7on19cur25rgXh/cNjQn034QkHLqVETDgii/N9+cGh4XK5LJiZ2Co/q2hBFB6ZxInZFqyHHCOurq1vb26EOpIyWbMWhUZARoMWRFGj0Na+GmpzC4sXx8eHR6ctvs8x7mTbZgUGfzwsu5uzmiKTS6UwL2akKGzt7LFyZmZnSpNThWIxk8lenp1AZsRSvcUBIsQ80JnLkF+XkasFKVEJXuxgX3nnt1e+cscmxpdXVkqlUjbd0NOcxdla68+tRUalqxS4WEyZI5GiEw480tUzlOvKt7ZjStr1im0dINFsZY0qhZd4or9Qi6kehU3SAQhJN3GqGgcQwXxWwJXq691TZbSjF0xEAWTgn+M3hyRP9w/WSbtkfgYA1B5TilLAYJBCCvBV0MKmCqZO+h1wKIX8SzMIcwAAAABJRU5ErkJggg==")
+module.exports=(__webpack_require__(/*! alt1/base */ "../node_modules/alt1/dist/base/index.js").ImageDetect).imageDataFromBase64("iVBORw0KGgoAAAANSUhEUgAAAAoAAAALCAIAAADJDItPAAAAAW5vUEUAYtdMlAAAAARub1BFAAAAAEEgjiIAAAAJbm9QRQAAAAAAAAAAAKGKctUAAADrSURBVChTY1CRFMWDGLSlJYEUhASimRP6v339CuRCRBjUZSSALCNpWSDHx9720oXzX79+ZWJkhOgB6YZIA8kTRw7npaZ8+fIFKA0RB0kD5YCourBg2fx5+lraEN0QDQxAylpBxdPA+M7Nm5oK8sa6ukC7IdKmcgoMQDkg2rhyZUNBERcrW7CdI1CamZEJYiRU+t+/f+/evn3/9t2nDx/+////5s0bF0VNJ0UVBi9FHSAr0tJBRkZGQU7ewc4OaDeQzcrEDNTGEKRkCFFhK6viJKueYO8JMRzIBgoyWEsroSFjcVlmRkYQW1oJAGhfXCxy+HbnAAAAAElFTkSuQmCC")
 
 /***/ },
 
@@ -57,7 +57,7 @@ module.exports=(__webpack_require__(/*! alt1/base */ "../node_modules/alt1/dist/
   \**********************************/
 (module, __unused_webpack_exports, __webpack_require__) {
 
-module.exports=(__webpack_require__(/*! alt1/base */ "../node_modules/alt1/dist/base/index.js").ImageDetect).imageDataFromBase64("iVBORw0KGgoAAAANSUhEUgAAABgAAAANCAIAAAA8DjmHAAAAAW5vUEUAYtdMlAAAAARub1BFAAAAAEEgjiIAAAAJbm9QRQAAAAAAAAAAAKGKctUAAAGqSURBVDhPrVK7SgNBFL0zu5vdaGJiXpAE4yM2KgQLrUSIkFK/Q7AWf0Cs/AixFGwEUQs/wcYYFW3sY2xMjO7OTtYzOzEICin0cpk598y5Z2Z2ls3ms/Qfwfvzn+PfjIZc7er+8bZeB2jUr/f3djX5awwxOjw6Xq1WHcsCti0zHR/V/M/ghmHY3ERq0KfRFmJGDC6FVGI6ky4kElo5WEWLkobBzYDZpFgAjFqK9FmAkRM7PTs/ubisbayHenJ7vhKQ0qjeLz1bKOa14tdAw0OrmRwfb9zdrS0tc9dzyde8FugSoV5NsxhHDBs5EGkwlUklDfbQaOTKM92ep0lcChbqa+BoZMYsh2MClaQo2IjkEa5KvZzL5KKW8p2vVIqTpfubmw8h4ILNpJQAXelCjOyID2WftEbfhRuFZ/hXoVQTUaE0sb138Pbajo+N7WxuNVutxUJJSKFdIPNJCuFjM5SsNj3XI+EG5PX8uGECYDnOnPdAbd7x3KeXZ865L2U5k8vaMZBaH2VWO8BB+g/HVqZmE8zxSEZCCgAWNiOHFAkGJXoAvgsGLX1NID4BX6GYbUEzr+MAAAAASUVORK5CYII=")
+module.exports=(__webpack_require__(/*! alt1/base */ "../node_modules/alt1/dist/base/index.js").ImageDetect).imageDataFromBase64("iVBORw0KGgoAAAANSUhEUgAAAAkAAAALCAIAAAAiOzBMAAAAAW5vUEUAYtdMlAAAAARub1BFAAAAAEEgjiIAAAAJbm9QRQAAAAAAAAAAAKGKctUAAAD7SURBVChTY1CRFMWFGLSlJYHU3h07vn39+unjx8+fPuYkxgMFgYhBXUYCSF08c8bWyoqJkZGJiZGZiVFOWBCqD4geP3igJCenJCoCZBtJywIRSB+E8/bV6xfPn79982bbunUO2roQQQYgtlZQcdMxYGdhlRAX27p167LFizUkxUFyQAkgMpVTsJBTAjISfQOePnkixsOHkAMiF0VNIJkeFPrg7l2gGUAug5eiTpCRZWFYjI2iqq+28ZEdu5dOn8XNyg6SC1IyDDeyuXb+wuePn96+eLll8QolUQklfhGgHgZraSUgMpeU52VjZ2ZiYmNmluTms5BStJZWAgBaPVKHg07M/wAAAABJRU5ErkJggg==")
 
 /***/ },
 
@@ -67,7 +67,7 @@ module.exports=(__webpack_require__(/*! alt1/base */ "../node_modules/alt1/dist/
   \**********************************/
 (module, __unused_webpack_exports, __webpack_require__) {
 
-module.exports=(__webpack_require__(/*! alt1/base */ "../node_modules/alt1/dist/base/index.js").ImageDetect).imageDataFromBase64("iVBORw0KGgoAAAANSUhEUgAAABUAAAANCAIAAADJ8LI3AAAAAW5vUEUAYtdMlAAAAARub1BFAAAAAEEgjiIAAAAJbm9QRQAAAAAAAAAAAKGKctUAAAGhSURBVDhPtVE9S8NQFL3vvaRJaz+sWj8QsYG66dql6OCm2ILg4CD+DXUQFSmIDu6Cg6MgiFurXUQHRxEEwUFwEMRB61eb5ssTX5CCuCgeLjfnnXNubh5hmZ4U/QE8eP4W/zk/PTO7Xzra2d0DCaRv+PH+Y/kCxibzE9X3muA8qmvxiB54TeAaV1BCCPRAIwIfmygUl5Zf62ZfR9LoaE9FozIpXXSMoHON/IPiMWnIspmH/dlcrlw+PChVsiPDcAHTtf0A+RmMoHOTbOk1Q77u9OxsqpCfm59fLK41TFuOyYDPPxcH+9EjQkPJI/BcrVYqlXBIvbk4Nwzj9ukRm6SLLwf3r0yKaIu3tFLYEyzkcKGIN9eEqhBPY2hg4O7yKjucS3V1b21vd8Zj0DWhOgC5lud3lktnapYZVjW59guxRGJhc4Nzrivq+spq+eR4qLsXSekib5NjWTYbNTKmRw3XjgkFBGqM6TXPQsh23euHe5c88P5ke0qLgrhkIRZm6otXV0iwcWOwQU6I/J8BgkmNkU46OBQcEQVpDiSY70JpkPMBqOmU1POf3w4AAAAASUVORK5CYII=")
+module.exports=(__webpack_require__(/*! alt1/base */ "../node_modules/alt1/dist/base/index.js").ImageDetect).imageDataFromBase64("iVBORw0KGgoAAAANSUhEUgAAAAsAAAALCAIAAAAmzuBxAAAAAW5vUEUAYtdMlAAAAARub1BFAAAAAEEgjiIAAAAJbm9QRQAAAAAAAAAAAKGKctUAAAEYSURBVChTY1CRFMWPQCq0pSUhZENV+f17d798/hwfFAjkQsQZgJS6jASQrM7Ju3j+nJmeLhsLMwszs6KIMEQbSAUE3bh8Jdjbi5ONVU1CzEhaFogg4lAVlsqqf//8qamufvP69YVTp/2sbICCEEUMEOVBVnb///+vKC+XExOdMnnylk2bVMVBJpnKKTBYK6gAEVDFn9+/WVhY5AWF4zx9Xr54IcTFDdHM4KKoCVThoKb169cvYWFhK3nlVP+gJw8fsTGzAKWcFFUYgNhLUQfI2bN+U2dnp7Oy1ualKzcvX8XFwgbRzACUDlIyBJLBxtZ7duz88P792YNHDJXUZHgFIToZrKWV4MhMUl6Qg4uFiQlIAtkgQWklAAuDYWt+j37cAAAAAElFTkSuQmCC")
 
 /***/ },
 
